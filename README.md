@@ -87,7 +87,6 @@ Vamos conversar? Me chame pelo [LinkedIn](https://linkedin.com/in/paulobtx).
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" alt="Rodapé" />
 
 </div>
-## Hi there 👋
 
 <!--
 **PauloBTX/PauloBTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
