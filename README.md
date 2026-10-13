@@ -15,7 +15,7 @@
 Sou **Líder Técnico e Desenvolvedor Full Stack com mais de 20 anos de experiência** em **C#, .NET e Angular**, unindo profundidade técnica em arquitetura de software a liderança de equipes de desenvolvimento.
 
 - 🏗️ Já arquitetei sistemas backend adotados como **padrão pela equipe**
-- 👥 Liderei tecnicamente equipes de até 3 desenvolvedores, com revisão de arquitetura e mentoria contínua
+- 👥 Liderei tecnicamente equipes de até 3 desenvolvedores, com revisão de arquitetura e mentoria contínua. Treinei estagiários até a contratação.
 - 📱 Construí e coloquei em **produção real** um aplicativo mobile em Flutter com backend .NET Core
 - 🧠 Pós-graduado em **Inteligência Artificial** e em **Engenharia de Software**
 - 🎯 Foco em **entender a regra de negócio antes de codificar**, reduzindo retrabalho e aumentando a confiabilidade das entregas
